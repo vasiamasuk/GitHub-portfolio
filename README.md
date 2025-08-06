@@ -1,2 +1,3 @@
-# GitHub-portfolio
-Portfolio SA
+[Диаграммы DFD РАЗНЫХ УРОВНЕЙ+ER+USM] (https://drive.google.com/file/d/1cveIKiTMF7UtujC1kNOOArPUFgKRieGN/view?usp=sharing)
+[Диаграмма DFD] (https://drive.google.com/file/d/1rrvAVl5xA4aF1cpfH297esyc6-20EPwQ/view?usp=sharing)
+[Диаграмма BPMN + UML] (https://drive.google.com/file/d/1bst0adOvu9XwmvYP5hl5q0MwVnD4yCM0/view?usp=sharing)
