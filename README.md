@@ -37,7 +37,7 @@
 
 | Название проекта | Описание | Технологии |
 |------------------|----------|------------|
-| [Weather App](https://github.com/username/weather-app) | Приложение прогноза погоды | HTML, CSS, JS, API |
+| [🎓 Stets Home](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🎓%20Stets%20Home) | Дипломный проект | Полный цикл аналитики: user story map, DFD, ER, USM, прототипы, ПМИ |
 | [Portfolio Site](https://github.com/username/portfolio-site) | Персональный сайт | React, Tailwind |
 | [Data Analysis](https://github.com/username/data-analysis) | Анализ данных с pandas и matplotlib | Python |
 
