@@ -41,6 +41,7 @@
 | [🛏️ Capsula](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🛏%EF%B8%8F%20Capsula) | Тестовая документация | ПМИ и руководство пользователя для сайта бронирования |
 | [🏕 Nakarabine 2.0](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🏕%20Nakarabine%202.0) | Спецификация | Требования, UML Use Case, ERD логическая модель 1-3 НФ |
 | [🧠 Chatty 2.0](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🧠%20Chatty%202.0) | Спецификация | Требования к функциям карточек и видео, UML Use case |
+| [🏥Vita Clinic](https://github.com/vasiamasuk/GitHub-portfolio/tree/main/🏥Vita%20Clinic) | Моделирование бизнес процессов, прототипирование UI | BPMN, прототипы UI, UML State Machine Diagram |
 
 ---
 
