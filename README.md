@@ -39,7 +39,7 @@
 |------------------|----------|------------|
 | [🎓 Stets Home](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🎓%20Stets%20Home) | Дипломный проект | Полный цикл аналитики: user story map, DFD, ER, USM, прототипы, ПМИ |
 | [🛏️ Capsula](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🛏%EF%B8%8F%20Capsula) | Тестовая документация | ПМИ и руководство пользователя для сайта бронирования |
-| 🏕 Nakarabine 2.0](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🏕%20Nakarabine%202.0) | Спецификация | Требования, Use Case, логическая модель, глоссарий, DFD |
+| [🏕 Nakarabine 2.0](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🏕%20Nakarabine%202.0) | Спецификация | Требования, Use Case, логическая модель, глоссарий, DFD |
 | [Data Analysis](https://github.com/username/data-analysis) | Анализ данных с pandas и matplotlib | Python |
 
 ---
