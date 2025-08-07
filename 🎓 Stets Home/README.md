@@ -20,9 +20,11 @@
 
 ## 📂 Мои проекты
 
-- [Weather App](https://github.com/username/weather-app)  
-- [Portfolio Site](https://github.com/username/portfolio-site)  
-- [Data Analysis](https://github.com/username/data-analysis)  
+- [📌 Карта пользовательских историй](https://miro.com/app/board/uXjVIi1t0Ao=/)  
+- [🗃️ Диаграммы проекта](https://drive.google.com/file/d/1cveIKiTMF7UtujC1kNOOArPUFgKRieGN/view?usp=sharing)  
+- [📖 Словарь данных](https://docs.google.com/spreadsheets/d/1oIxvYUVTpWyadvS8ZFkX685GdYlWvDGx/edit?usp=sharing&ouid=113822318576804536481&rtpof=true&sd=true)  
+- [🖼️ Прототип интерфейса (Figma)](https://www.figma.com/design/ODJgo3uMQjc5ExxB8A7yep/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=0-1&t=2hYGEtzu15QR1J7K-1)
+- [🧪 Программа и методика испытаний](https://docs.google.com/document/d/1febqkC3dhYs-reW7MdVqm2CU_p3L-ilFGL1EmAYlu_0/edit?usp=sharing)
 
 ---
 
