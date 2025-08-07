@@ -26,7 +26,6 @@
  📈 Знаком с SQL и REST API
  
  📬 Готов выполнить тестовое задание и пройти собеседование
- 
  📱 Telegram: https://t.me/Murrpphhyy
 
 
