@@ -38,7 +38,8 @@
 | Название проекта | Описание | Технологии |
 |------------------|----------|------------|
 | [🎓 Stets Home](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🎓%20Stets%20Home) | Дипломный проект | Полный цикл аналитики: user story map, DFD, ER, USM, прототипы, ПМИ |
-| [Portfolio Site](https://github.com/username/portfolio-site) | Персональный сайт | React, Tailwind |
+| [🛏️ Capsula](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🛏%EF%B8%8F%20Capsula) | Тестовая документация | ПМИ и руководство пользователя для сайта бронирования |
+| [Data Analysis](https://github.com/username/data-analysis) | Анализ данных с pandas и matplotlib | Python |
 | [Data Analysis](https://github.com/username/data-analysis) | Анализ данных с pandas и matplotlib | Python |
 
 ---
