@@ -17,9 +17,9 @@
 
 ## 📎 Артефакты проекта
 
-* [📌 Карта пользовательских историй](https://miro.com/app/board/uXjVIi1t0Ao=/)  
-* [🗃️ Диаграммы проекта](https://drive.google.com/file/d/1cveIKiTMF7UtujC1kNOOArPUFgKRieGN/view?usp=sharing)  
-* [📖 Словарь данных](https://docs.google.com/spreadsheets/d/1oIxvYUVTpWyadvS8ZFkX685GdYlWvDGx/edit?usp=sharing&ouid=113822318576804536481&rtpof=true&sd=true)  
+* [Программа и методика испытаний (DOCX)](https://docs.google.com/document/d/1gIKWs0Qts6RNShCuYvn7CTV6zcz9_3TQbHyv5QXYlfo/edit?usp=sharing)  
+* [Руководство пользователя (DOCX)](https://docs.google.com/document/d/1NJthM2LIMtpNOVsea3kZweWYG29VhqXBh20xn49fn3U/edit?usp=sharing)  
+* [План тестирования (DOCX)](https://docs.google.com/document/d/1ZvYQsheGpqzdJaBFRpQ_DbJmC6DQVppzvqRfVBFsOug/edit?usp=sharing)  
 
 
 ---
