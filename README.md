@@ -46,10 +46,10 @@
 ---
 
 ## 🛠 Навыки и стек
-* Методологии и нотации: BPMN 2.0, UML (Use Case, Activity, Sequence), DFD, ERD (Crow’s Foot), User Story Map
+* Методологии и нотации: Agile/Scrum/Waterfull, BPMN 2.0, UML (Use Case, Activity, Sequence), DFD, ERD (Crow’s Foot), User Story Map
 * Инструменты: Miro, Figma, Draw.io, Notion, Google Docs, Diagrams.net
 * Тестирование и документация: ПМИ, планы тестирования, acceptance criteria, глоссарии
-* Технологии: SQL (базово), REST API, Agile/Scrum
+* Технологии: SQL (базово),  SOAP/REST API, JSON / XML, Postman, Swagger, HTTP-запросы, логика работы микросервисов/монолитов/SOA
 * Подходы: MVP, гипотезы, итеративная разработка, работа с заказчиком
 
 ---
