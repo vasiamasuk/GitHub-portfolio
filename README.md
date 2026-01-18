@@ -71,6 +71,7 @@
 
 | Название проекта | Описание | Технологии |
 |------------------|----------|------------|
+| [✈️ Iffelow](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🎓%20Stets%20Home) | Создание сервиса бронирования авиабилетов с нуля | SRS, BPMN, UML, ERD, DFD, REST/SOAP, Swagger/YAML, интеграции, OAuth/OIDC, Postman, прототипы, тест‑кейсы |
 | [🎓 Stets Home](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🎓%20Stets%20Home) | Дипломный проект | Полный цикл аналитики: user story map, DFD, ER, USM, прототипы, ПМИ |
 | [🛏️ Capsula](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🛏%EF%B8%8F%20Capsula) | Тестовая документация | ПМИ и руководство пользователя для сайта бронирования |
 | [🏕 Nakarabine 2.0](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🏕%20Nakarabine%202.0) | Спецификация | Требования, UML Use Case, ERD логическая модель 1–3 НФ |
