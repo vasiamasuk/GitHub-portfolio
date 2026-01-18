@@ -38,8 +38,8 @@ Iffelow — сервис онлайн‑бронирования авиабил�
 
 - BPMN 2.0, PlantUML, UML (Use Case, Activity, Sequence)  
 - ERD (логическая и физическая модель), DFD  
-- Swagger/YAML, REST/SOAP API  
-- Postman, интеграционные оркестраторы  
+- Swagger/YAML, REST/SOAP API, интеграционные оркестраторы    
+- Postman
 - OAuth 2.0   
 - Figma, Miro, Draw.io  
 
