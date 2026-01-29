@@ -70,7 +70,7 @@
 | Название проекта | Описание | Технологии |
 |------------------|----------|------------|
 | [✈️ iFellow](https://github.com/vasiamasuk/GitHub-portfolio/tree/404c1ed44dce8f06dbc4bfb4e6bfdd4a18e3f2f9/%E2%9C%88%EF%B8%8F%20iFellow) | Создание сервиса бронирования авиабилетов с нуля | SRS, BPMN, UML, ERD, DFD, REST/SOAP, Swagger/YAML, интеграции, OAuth, Postman, прототипы, тест‑кейсы |
-| [🎓 Stets Home]() | Дипломный проект | Полный цикл аналитики: user story map, DFD, ER, USM, прототипы, ПМИ |
+| [🎓 Stets Home](https://github.com/vasiamasuk/GitHub-portfolio/tree/404c1ed44dce8f06dbc4bfb4e6bfdd4a18e3f2f9/%F0%9F%8E%93%20Stets%20Home) | Дипломный проект | Полный цикл аналитики: user story map, DFD, ER, USM, прототипы, ПМИ |
 | [🛏️ Capsula](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🛏%EF%B8%8F%20Capsula) | Тестовая документация | ПМИ и руководство пользователя для сайта бронирования |
 | [🏕 Nakarabine 2.0](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🏕%20Nakarabine%202.0) | Спецификация | Требования, UML Use Case, ERD логическая модель 1–3 НФ |
 | [🧠 Chatty 2.0](https://github.com/vasiamasuk/GitHub-portfolio/blob/main/🧠%20Chatty%202.0) | Спецификация | Требования к функциям карточек и видео, UML Use Case |
